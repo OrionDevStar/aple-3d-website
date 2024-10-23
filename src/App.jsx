@@ -11,6 +11,8 @@ function App() {
       <Navbar />
       <Hero />
       <Highlights />
+      <Model />
+      <Footer />
     </main>
   );
 }
